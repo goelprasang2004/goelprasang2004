@@ -59,9 +59,9 @@
 ## 📫 Connect with Me
 
 - GitHub: [goelprasang2004](https://github.com/goelprasang2004)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- Email: your.email@example.com
-- Portfolio: [your-website.com](https://your-website.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/prasang-goel-7188a8318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: goelprasang715@gmail.com
+- Portfolio: [your-website.com](https://codewithprasang.netlify.app/)
 
 ---
 
